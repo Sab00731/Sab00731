@@ -35,7 +35,7 @@ I'm an aspiring Embedded Systems & Chip Design engineer. Currently leading the A
 
 ---
 
-### 🛠️ Technical Toolkit
+### Technical Toolkit
 |  |  |
 | :--- | :--- |
 | **Languages** | `C`, `C++`, `Python` |
