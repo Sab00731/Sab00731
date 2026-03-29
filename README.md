@@ -1,8 +1,6 @@
-<img src="https://capsule-render.vercel.app/canvas?type=waving&color=00d2ff&height=200&section=header&text=Sabarish%20R&fontSize=70&theme=dark" />
-
 <div align="center">
 
-# Hey, I'm Sabarish R.
+<img src="https://capsule-render.vercel.app/canvas?type=waving&color=00d2ff&height=250&section=header&text=Sabarish%20R&fontSize=80&animation=fadeIn&fontAlignY=35&theme=dark" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
