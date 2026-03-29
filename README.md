@@ -49,9 +49,3 @@ I'm an aspiring Embedded Systems & Chip Design engineer. Currently leading the A
 * **8-Bit CPU** – A custom architecture built from logic gates and basic components.
 * **Heart Murmur Detection** – Utilizing DSP and Deep Learning for cardiac murmur detection.
 * **BAB Hemispherical Scanner** – LiDAR-based obstacle mapping robot.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sab00731&layout=compact&theme=vision-friendly-dark&hide_border=true" />
-</div>
