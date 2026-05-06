@@ -8,7 +8,7 @@
 </div>
 
 ### About Me
-I'm an aspiring Embedded Systems & Chip Design engineer. Currently a mentor in the Avionics team for our Rocketeering Club, focusing on high-altitude flight computers and sensor fusion.
+I'm an aspiring Embedded Systems & Chip Design engineer. Currently leading the college Avionics team for our Rocketeering Club, focusing on high-altitude flight computers and sensor fusion.
 
 ---
 
